@@ -10,7 +10,7 @@
  </p>
 
 ## Setup
-
+  
 ```
 npm i && npm start
 ```
